@@ -1,7 +1,8 @@
 ---
 layout:     post
-title:      Heroku login fails after resetting api key (or password)
+title:      Fix heroku login
 date:       2014-04-09 11:59
+summary:    If it fails after resetting the api key (or the password).
 categories: heroku heartbleed
 ---
 
