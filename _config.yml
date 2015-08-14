@@ -4,7 +4,7 @@ email:       contact@benjaminguillet.com
 author:      Benjamin Guillet
 description: "Benjamin Guillet, Software Engineer. Between France and USA!."
 baseurl:     ""
-url:         "/"
+url:         "http://www.benjaminguillet.com"
 
 # Google analytics
 google_analytics: UA-28793596-2
@@ -27,6 +27,6 @@ flattr_button:
 # Build settings
 markdown:     kramdown
 permalink:    pretty
-paginate:     6
+paginate:     5
 sass:
   compressed: true
