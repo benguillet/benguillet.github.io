@@ -3,7 +3,7 @@ layout:     post
 title:      Fix rake new_post['title'] and Zsh
 date:       2013-06-24 16:09
 summary:
-categories: octopress, rake, zsh, bug
+categories: octopress rake zsh bug
 ---
 
 There is a bug with Zsh and the Octopress `rake new_post` command.
