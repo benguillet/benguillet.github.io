@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git: rename local branch
+title: "Git: rename local branch"
 date: 2013-06-24 16:27
 summary:
 categories: git
