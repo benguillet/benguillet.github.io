@@ -12,4 +12,3 @@ I have solid programming skills on various languages ranging from low to high le
 
 I am interested in Web development (back-end, messaging, APIs creation) and devops.
 
-[My resume](/benjamin_guillet_resume_latest.pdf)
