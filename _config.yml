@@ -1,8 +1,8 @@
 # Site settings
-title:       Benjamin Guillet
+title:       Ben Guillet
 email:       contact@benjaminguillet.com
 author:      Benjamin Guillet
-description: "Benjamin Guillet, Software Engineer. Between France and USA!."
+description: "Ben Guillet, Software Engineer. Between France and USA!."
 baseurl:     ""
 url:         "http://www.benjaminguillet.com"
 
@@ -19,7 +19,7 @@ show_social_icons: true
 github_username: benguillet
 twitter_username: ben_guillet
 google_plus_id:
-linkedin_username: benjaminguillet/en
+linkedin_username: benguillet/en
 bitcoin_url:
 paypal_url:
 flattr_button:
